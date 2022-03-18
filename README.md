@@ -4,4 +4,4 @@ Computer science student from Russia pursuing Bachelors in computer science. I a
 
 Also love making plugins for Minecraft Java Edition!
 
-![Alt Text](https://i.pinimg.com/originals/62/87/42/628742079cf04def24ff19dca788ff31.gif)
+![Alt Text](https://i.pinimg.com/originals/71/a3/88/71a388079155535b7d03d305e7f17b51.gif)
