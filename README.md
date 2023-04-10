@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer science student from Russia pursuing Bachelors in computer science. Working with mostly Kotlin and Java
+Computer science student from Russia pursuing Bachelors in computer science. Mostly working with Kotlin and Java
 
 Also love making plugins for Minecraft Java Edition!
 
