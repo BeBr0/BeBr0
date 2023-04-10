@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer science student from Russia pursuing Bachelors in computer science. I am really interested in Android Development and currently self-studying it
+Computer science student from Russia pursuing Bachelors in computer science. Working with mostly Kotlin and Java
 
 Also love making plugins for Minecraft Java Edition!
 
